@@ -49,6 +49,7 @@ my %CONFIGURE_DEPS = (
     'File::Spec'          => 0,
     'IPC::Cmd'            => 0,
     'base'                => 0,
+    'Config::AutoConf'    => '0.315',
 );
 my %BUILD_DEPS = ();
 
